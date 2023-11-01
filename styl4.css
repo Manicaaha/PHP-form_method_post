@@ -1,0 +1,38 @@
+html{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.baner{
+    background-color: darkcyan;
+    color: white;
+    text-align: center;
+    padding: 20px;
+}
+.formularz{
+    background-color: lightseagreen;
+    text-align: center;
+    padding: 60px;
+}
+.lewy, .srodkowy{
+    background-color: teal;
+    color: white;
+    text-align: center;
+    height: 350px;
+    width: 25%;
+    float: left;
+}
+.prawy{
+    background-color: teal;
+    color: white;
+    text-align: center;
+    height: 350px;
+    width: 50%;
+    float: right;
+}
+.stopka{
+    background-color: darkcyan;
+    color: white;
+    padding: 40px;
+}
+ol{
+    border: 4px dotted rgb(127, 255, 212);
+}
